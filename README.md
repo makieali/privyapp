@@ -1,6 +1,6 @@
-# chatty
+# Privy
 
-A new chatty project.
+A new privy chat project.
 
 ## Getting Started
 
